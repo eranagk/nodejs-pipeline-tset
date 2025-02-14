@@ -3,13 +3,13 @@ const app = express();
 const hostname = '127.0.0.1'; // Your server ip address
 const port = 3000;
 
-const version = '1';
+const version = '2';
 
 app.get('/', (req, res) => {
     // set response content    
         res.send(`<html>
                     <body>
-                        <h1 style="color:blue;text-align: center;margin-top: 100px;"> [Version ${version}]:Codepipeline Test 2025</h1>
+                        <h1 style="color:blue;text-align: center;margin-top: 100px;"> [Version ${version}]:Codepipeline Test1 2025</h1>
                         <div style="position: fixed;top: 50%;left: 50%;transform: translate(-50%, -50%)">
                         <br>    
                         <br>    

@@ -9,7 +9,7 @@ app.get('/', (req, res) => {
     // set response content    
         res.send(`<html>
                     <body>
-                        <h1 style="color:blue;text-align: center;margin-top: 100px;"> [Version ${version}]:Codepipeline Test KT session 2025 Lankacom</h1>
+                        <h1 style="color:blue;text-align: center;margin-top: 100px;"> [Version ${version}]:Codepipeline Test 2025</h1>
                         <div style="position: fixed;top: 50%;left: 50%;transform: translate(-50%, -50%)">
                         <br>    
                         <br>    

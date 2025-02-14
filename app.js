@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
                         <div style="position: fixed;top: 50%;left: 50%;transform: translate(-50%, -50%)">
                         <br>    
                         <br>    
-                        <br>    
+                        <br>   <br> <br> <br> <br> <br>  
                         <img src="https://picsum.photos/400/400?random=1">
                         </div>
                     </body>
